@@ -1,0 +1,11 @@
+body{
+    font-size: 12px;
+}
+h1,h2{color: blue;}
+p{color: purple;}
+.gray{
+    color: gray;
+}
+#second{
+    font-style: italic;
+}
